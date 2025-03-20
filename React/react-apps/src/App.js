@@ -20,7 +20,7 @@ const handeButtonClick = () => {
 }
   return (
   <>
-  <h1>SWAPI</h1>
+  <h1>SWAP1</h1>
   <div d-flex my-3>
 <Input value={inputValue} onChange={handleInputChange}  />
 <Button onClick={handeButtonClick}/>
